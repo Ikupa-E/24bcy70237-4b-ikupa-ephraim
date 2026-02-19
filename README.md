@@ -25,6 +25,7 @@ To develop a RESTful API for managing playing card collections using Express.js.
   "value": "queen",
   "collection": "royal"
 }
+```
 
 ## How to Run
   npm install
@@ -32,4 +33,5 @@ To develop a RESTful API for managing playing card collections using Express.js.
 
 ## Output
 Tested using Postman
+
 ![alt text](../postman1.png)
