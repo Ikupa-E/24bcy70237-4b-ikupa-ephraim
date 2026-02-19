@@ -33,5 +33,7 @@ To develop a RESTful API for managing playing card collections using Express.js.
 
 ## Output
 Tested using Postman
+<img width="1597" height="962" alt="postman1" src="https://github.com/user-attachments/assets/a07987df-b9ee-4098-912d-cd4f8a5d1c98" />
 
-![alt text](../postman1.png)
+
+
